@@ -1,4 +1,4 @@
-#Java2-ImageProcessing
+# Java2-ImageProcessing
 
 <img width="595" alt="Screen Shot 2022-09-23 at 16 09 02" src="https://user-images.githubusercontent.com/74483949/191980546-faf094d3-db51-4208-a92d-d21287f5131c.png">
 <img width="595" alt="Screen Shot 2022-09-23 at 16 10 29" src="https://user-images.githubusercontent.com/74483949/191980566-08f7362b-6037-4d0c-b538-70728111834c.png">
